@@ -1,1 +1,3 @@
 # clipex-page
+
+theme: SLATE
